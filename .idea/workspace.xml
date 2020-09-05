@@ -6,11 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d47d2f1c-773e-4f9b-a28e-2b78d50230ee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/BindingUtils.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/BindingUtils.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepNightAdapter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/trackmysleepquality/sleeptracker/SleepTrackerFragment.kt" afterDir="false" />
-    </list>
+    <list default="true" id="d47d2f1c-773e-4f9b-a28e-2b78d50230ee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +24,13 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
